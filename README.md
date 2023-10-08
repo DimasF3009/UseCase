@@ -1,3 +1,10 @@
+```
+Dimas Firmansyah
+312210267
+TI.22.A2
+Rekayasa Perangkat Lunak
+```
+
 # UseCase
 <img width="449" alt="Usecase" src="https://github.com/DimasF3009/UseCase/assets/115356128/a3f5ac1d-2814-47b6-9e35-1338878f1213">
 
